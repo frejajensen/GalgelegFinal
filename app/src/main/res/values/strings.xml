@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GalgelegFinal</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="score_0">score: 0</string>
+    />
+    <string name="lives_5">liv: 5</string>/>
+    <string name="category">kategori</string>
+    />
+    <string name="spin_the_wheel">spin the wheel</string>
+    />
+    <string name="indtast_bogstav">indtast bogstav</string>
+    <string name="g_t">gæt</string>
+    <string name="tillykke_du_vandt">Tillykke du vandt!</string>
+    <string name="vil_du_spille_igen">Vil du spille igen?</string>
+    <string name="ja">Ja!</string>
+    <string name="du_tabte_desv_rre">Du tabte desværre</string>
+</resources>
